@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "resource1",
-      "path": "https://raw.githubusercontent.com/andrelgamei/workshop/main/data.csv",
+      "path": "https://raw.githubusercontent.com/andrelgamei/dcta/main/data.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
